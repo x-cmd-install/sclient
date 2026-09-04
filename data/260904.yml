@@ -7,7 +7,7 @@ about:
   head: d806c18
   archived: false
   latestVersion: v1.5.1
-  collectedAt: 2026-09-04T20:03:04Z
+  collectedAt: 2026-09-04T20:38:11Z
 timeline:
   created: 2020-10-21
   lastCommit: 2025-08-06
@@ -81,6 +81,34 @@ total:
   openIssue: 1
   commit: 32
 ---
+path: /home/runner/.x-repo/github.com/therootcompany/sclient
+collectedAt: 2026-09-04T20:38:12Z
+loc:
+  Go:
+    code: 260
+    comments: 66
+    blanks: 38
+    files: 3
+  Bitbake:
+    code: 10
+    comments: 1
+    blanks: 0
+    files: 1
+  Sh:
+    code: 7
+    comments: 3
+    blanks: 4
+    files: 3
+  Markdown:
+    code: 0
+    comments: 97
+    blanks: 48
+    files: 1
+total:
+  code: 302
+  comments: 167
+  blanks: 93
+  files: 8
 ---
 date: "2026-08-24"
 repo:
