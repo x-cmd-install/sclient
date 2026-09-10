@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.1"
   latestRelease: "v1.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:35:04Z
+  collectedAt: 2026-09-10T16:13:54Z
 timeline:
   created: 2020-10-21
   lastCommit: 2025-08-06
@@ -84,7 +84,7 @@ total:
   commit: 32
 ---
 path: /home/runner/.x-repo/github.com/therootcompany/sclient
-collectedAt: 2026-09-10T04:35:04Z
+collectedAt: 2026-09-10T16:13:55Z
 loc:
   Go:
     code: 260
