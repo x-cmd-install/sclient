@@ -4,7 +4,7 @@
 
 Secure Client for exposing TLS (aka SSL) secured services as plain-text connections locally. Also ideal for multiplexing a single port with multiple protocols using SNI.
 
-![sclient](https://repo.x-cmd.io/sclient.svg)
+![sclient](https://repo.x-cmd.io/sclient.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,24 @@ x install sclient
 - **最新版本**: `v1.5.1` (2025-09-17)
 - **最近提交**: 2025-08-06
 - **Release 含资产**: 13 个
-- **发布时间**: 2025-09-17T03:53:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/therootcompany/sclient/releases/download/v1.5.1/checksums.txt) | 1.1 KiB | `other` |
+| [sclient_1.5.1_darwin_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_darwin_amd64v2.tar.xz) | 1.7 MiB | `native/darwin/x64` |
+| [sclient_1.5.1_darwin_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_darwin_arm64.tar.xz) | 1.5 MiB | `native/darwin/arm64` |
+| [sclient_1.5.1_freebsd_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_amd64v2.tar.xz) | 1.7 MiB | `other` |
+| [sclient_1.5.1_freebsd_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_arm64.tar.xz) | 1.4 MiB | `other` |
+| [sclient_1.5.1_freebsd_armv7.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_armv7.tar.xz) | 1.5 MiB | `other` |
+| [sclient_1.5.1_js_wasm.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_js_wasm.tar.xz) | 1.8 MiB | `other` |
+| [sclient_1.5.1_linux_amd64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_amd64.tar.xz) | 1.7 MiB | `native/linux/x64` |
+| [sclient_1.5.1_linux_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_amd64v2.tar.xz) | 1.7 MiB | `native/linux/x64` |
+| [sclient_1.5.1_linux_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_arm64.tar.xz) | 1.4 MiB | `native/linux/arm64` |
+| [sclient_1.5.1_linux_armv7.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_armv7.tar.xz) | 1.5 MiB | `native/linux/arm` |
+| [sclient_1.5.1_windows_amd64v2.zip](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_windows_amd64v2.zip) | 1.8 MiB | `native/win/x64` |
+| [sclient_1.5.1_windows_arm64.zip](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_windows_arm64.zip) | 1.7 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -71,4 +88,4 @@ sclient 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:13:59Z._

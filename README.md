@@ -23,7 +23,24 @@ x install sclient
 - **Latest**: `v1.5.1` (2025-09-17)
 - **Last commit**: 2025-08-06
 - **Assets in release**: 13
-- **Published**: 2025-09-17T03:53:45Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/therootcompany/sclient/releases/download/v1.5.1/checksums.txt) | 1.1 KiB | `other` |
+| [sclient_1.5.1_darwin_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_darwin_amd64v2.tar.xz) | 1.7 MiB | `native/darwin/x64` |
+| [sclient_1.5.1_darwin_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_darwin_arm64.tar.xz) | 1.5 MiB | `native/darwin/arm64` |
+| [sclient_1.5.1_freebsd_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_amd64v2.tar.xz) | 1.7 MiB | `other` |
+| [sclient_1.5.1_freebsd_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_arm64.tar.xz) | 1.4 MiB | `other` |
+| [sclient_1.5.1_freebsd_armv7.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_freebsd_armv7.tar.xz) | 1.5 MiB | `other` |
+| [sclient_1.5.1_js_wasm.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_js_wasm.tar.xz) | 1.8 MiB | `other` |
+| [sclient_1.5.1_linux_amd64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_amd64.tar.xz) | 1.7 MiB | `native/linux/x64` |
+| [sclient_1.5.1_linux_amd64v2.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_amd64v2.tar.xz) | 1.7 MiB | `native/linux/x64` |
+| [sclient_1.5.1_linux_arm64.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_arm64.tar.xz) | 1.4 MiB | `native/linux/arm64` |
+| [sclient_1.5.1_linux_armv7.tar.xz](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_linux_armv7.tar.xz) | 1.5 MiB | `native/linux/arm` |
+| [sclient_1.5.1_windows_amd64v2.zip](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_windows_amd64v2.zip) | 1.8 MiB | `native/win/x64` |
+| [sclient_1.5.1_windows_arm64.zip](https://github.com/therootcompany/sclient/releases/download/v1.5.1/sclient_1.5.1_windows_arm64.zip) | 1.7 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -67,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for sclient lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sclient` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/sclient.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/sclient.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:59Z._
