@@ -14,14 +14,14 @@ x install sclient
 
 ## Code insight
 
-Total: **277** lines of code across **8** files in the top 5 languages.
+Total: **532** lines of code across **7** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 260 | 66 | 38 | 3 |
-| Bitbake | 10 | 1 | 0 | 1 |
-| Sh | 7 | 3 | 4 | 3 |
-| Markdown | 0 | 97 | 48 | 1 |
+| Go | 459 | 72 | 74 | 4 |
+| Sh | 63 | 6 | 11 | 1 |
+| Bitbake | 10 | 0 | 0 | 1 |
+| Markdown | 0 | 90 | 49 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.5.1` (2025-09-17)
-- **Last commit**: 2025-08-06
+- **Last commit**: 2026-11-17
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 20 · **Forks**: 2 · **Open issues**: 3 · **Contributors**: 2
+- **Stars**: 20 · **Forks**: 2 · **Open issues**: 4 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 2 · **Open PRs**: 4 · **Closed issues**: 2 · **Open issues**: 1 · **Commits**: 32
+- **Releases**: 6 · **Merged PRs**: 7 · **Open PRs**: 7 · **Closed issues**: 2 · **Open issues**: 2 · **Commits**: 43
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 1 | 1 | 4 | 0 | 0 | 2 |
+| 30d | 2026-10-18 | 0 | 5 | 5 | 0 | 1 | 11 |
+| last60d | 2026-09-18 | 0 | 5 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-19 | 0 | 5 | 5 | 0 | 1 | 11 |
+| last180d | 2026-05-21 | 0 | 5 | 5 | 0 | 1 | 11 |
+| 360d | 2025-11-22 | 0 | 5 | 6 | 0 | 1 | 11 |
+| last720d | 2024-11-27 | 1 | 6 | 7 | 0 | 1 | 13 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for sclient lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:18:25Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:17:08Z._
